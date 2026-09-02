@@ -1,0 +1,22 @@
+# Phon project .gitignore 
+
+# Rolling backups created by Phon 
+backups.zip 
+
+# Autosave and temporary session files 
+__autosave_* 
+~* 
+
+# Query results (regenerable from queries) 
+.query_results/ 
+
+# Legacy project properties file 
+.properties 
+
+# OS cruft 
+.DS_Store 
+Thumbs.db 
+
+# Optional: media files are often large — ignore them, 
+# or remove this line and use Git LFS instead 
+__res/media/
