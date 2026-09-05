@@ -1,4 +1,59 @@
 {
   "name": "Simonsen",
-  "uuid": "395b45f9-c5d8-4a6c-a779-bd9743119d69"
+  "uuid": "395b45f9-c5d8-4a6c-a779-bd9743119d69",
+  "participants": [
+    {
+      "birthday": "1983-01-24",
+      "SES": "",
+      "other": "",
+      "role": "TARGET_CHILD",
+      "education": "",
+      "birthplace": "",
+      "sex": "MALE",
+      "name": "Tomas",
+      "language": "nor",
+      "id": "CHI",
+      "firstLanguage": "",
+      "group": ""
+    },
+    {
+      "SES": "",
+      "other": "",
+      "role": "INVESTIGATOR",
+      "education": "",
+      "birthplace": "",
+      "sex": "FEMALE",
+      "name": "Hanne",
+      "language": "nor",
+      "id": "HAN",
+      "firstLanguage": "",
+      "group": ""
+    },
+    {
+      "SES": "",
+      "other": "",
+      "role": "MOTHER",
+      "education": "",
+      "birthplace": "",
+      "sex": "FEMALE",
+      "name": "",
+      "language": "nor",
+      "id": "MOT",
+      "firstLanguage": "",
+      "group": ""
+    },
+    {
+      "SES": "",
+      "other": "",
+      "role": "TARGET_CHILD",
+      "education": "",
+      "birthplace": "",
+      "sex": "FEMALE",
+      "name": "Nora",
+      "language": "nor",
+      "id": "CHI",
+      "firstLanguage": "",
+      "group": ""
+    }
+  ]
 }
